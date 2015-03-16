@@ -1,0 +1,4 @@
+apple orange
+orange apple
+dog cat
+cat dog
